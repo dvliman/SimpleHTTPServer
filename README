@@ -1,0 +1,13 @@
+SimpleHTTPServer
+================
+If you don't know what SimpleHTTPServer is, it is a
+python library that serves files from the current
+directory, directly mapping the directory structure
+to HTTP requests
+
+How to use:
+java SimpleHTTPServer.jar [port number]
+
+You would want to do port forwarding to share on the internet
+python -m "SimpleHTTPServer" comes in handy sometimes
+I have that ready to share big files to my friend
